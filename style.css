@@ -72,3 +72,8 @@
 .cont button img{
     height: 2.5rem;
 }
+
+.undline{
+    text-decoration: underline;
+    text-underline-offset: 0.5rem;
+}
